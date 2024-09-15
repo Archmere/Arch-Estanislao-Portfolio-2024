@@ -3013,7 +3013,7 @@ body {
   display: flex;
 }
 .button-5:hover{
-  border: 1px solid var(--light-black);
+  border: 1px solid #FF8787;
   background-color: var(--light-black);
   border-radius: 10px;
   justify-content: center;
